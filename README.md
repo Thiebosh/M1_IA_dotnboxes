@@ -1,3 +1,9 @@
+## Oct. à nov. 2020 – Python et IA : environnement Dot’n’boxes, création d’agent
+- Optimisation de l’environnement : temps d’exécution réduit d’un facteur x1 000.
+- Tournoi d’évaluation des agents : arrivé 4e sur 130 avec une solution hybride.
+
+<br><hr><br>
+
 # M1_S1_IA_dotnboxes
 
 approches essayées :
